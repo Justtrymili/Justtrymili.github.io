@@ -1,5 +1,6 @@
 import './style.css';
-import * as THREE from './example/three.js';
+import * as THREE from 'https://cdn.skypack.dev/three@<version>';
+
 
 
 // Setup
