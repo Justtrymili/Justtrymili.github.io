@@ -1,9 +1,9 @@
 import { defineConfig } from 'vite'
-import three from '@vitejs/plugin-vanilla'
+import vue from '@vitejs/plugin-vue'
 
 
 export default defineConfig({
         base: '/Justtrymili.github.io/',
-        plugins:[three()]
+        plugins:[vue()]
 })
 
